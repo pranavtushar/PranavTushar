@@ -1,4 +1,4 @@
-### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University.I am passionate about AI and have a small experience in creating deep learning models to solve real-world problems. 👋
+### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University. I am passionate about AI and have a small experience in creating deep learning models to solve real-world problems. 👋
 
 - 😄 He/Him
 - 🔭 I’m currently working on Computer Vision and Natural Language Processing. 
