@@ -3,7 +3,7 @@
 
 - 😄 He/Him
 - 🔭 I’m currently working on Computer Vision and Natural Language Processing. 
-- 👯 I'm looking for Research oppurtunities in the Computer Vision, NLP and other tasks involving machine learning to solve healthcare and agriculture problems. 
+- 👯 I'm looking for Research oppurtunities in the Computer Vision, NLP and other tasks involving machine learning to solve healthcare and agriculture sector.
 - 💬 Open to have discussion in learning new technology. 
 - 📫 Contact me: [@T Pranav(https://www.linkedin.com/in/pranav-tushar/)
 
