@@ -1,4 +1,4 @@
-### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University. I am passionate about SpeechAI  and have experience in creating deep learning models to solve real-world problems. Here you will find a multitude of projects, ranging from the implementation of boosting models to implementing deep learning architectures from scratch as well as by transfer learning.👋
+### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University. I am passionate about SpeechAI  and have experience in creating deep learning models to solve real-world problems. 👋
 
 
 - 😄 He/Him
