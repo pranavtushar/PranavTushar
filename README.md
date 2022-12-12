@@ -1,9 +1,9 @@
-### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University. I am passionate about Artificial Intelligence  and have experience in creating deep learning models to solve real-world problems. Here you will find a multitude of projects, ranging from the implementation of boosting models to implementing deep learning architectures from scratch as well as by transfer learning.👋
+### Hello Everyone, I'm T Pranav, currently a pre-final year student at Thapar University. I am passionate about SpeechAI  and have experience in creating deep learning models to solve real-world problems. Here you will find a multitude of projects, ranging from the implementation of boosting models to implementing deep learning architectures from scratch as well as by transfer learning.👋
 
 
 - 😄 He/Him
-- 🔭 I’m currently working on Computer Vision and Natural Language Processing. 
-- 👯 I'm looking for Research oppurtunities in the Computer Vision, NLP and other tasks involving machine learning to solve healthcare and agriculture sector.
+- 🔭 I’m currently working on Speaker Diarization (ASR). 
+- 👯 I'm looking for research collaborations involving Speech Recognition and Speaker Verification Systems. 
 - 💬 Open to have discussion in learning new technology. 
 - 📫 Contact me: [@T Pranav(https://www.linkedin.com/in/pranav-tushar/)
 
