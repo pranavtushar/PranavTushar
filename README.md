@@ -4,7 +4,7 @@
 - 😄 He/Him
 - 🔭 I’m currently working on Speaker Diarization (ASR). 
 - 👯 Research interest - Automatic Speech Recognition and Speaker Verification Systems. 
-- 💬 I am looking for full-time roles as an Applied Scientist/ deep learning research engineer starting Aug 2023. Please reach out to me if you have an opportunity you think I'd be a good fit for. 
+- 💬 I am looking for full-time roles as an Applied Scientist / Deep Learning Research Engineer starting Aug 2023. Please reach out to me if you have an opportunity you think I'd be a good fit for. 
 - 📫 Contact me: [@T Pranav (https://www.linkedin.com/in/pranav-tushar/)
 - Mail @ tpranav2001@gmail.com / ptushar_be19@thapar.edu
 
@@ -15,11 +15,11 @@
 <!-- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>   C 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++  -->
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  python
-
+<!-- 
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavtushar&show_icons=truee&theme=radical)  
-
+ -->
 
 
 
